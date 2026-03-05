@@ -1,0 +1,108 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+header img{
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+
+main img {
+    width: 100%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+footer {
+    padding: 1rem;
+    color: white;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+}
+
+footer img {
+    width: 5%;
+}
+
+.row1{
+    display: flex;
+    padding: 1rem;
+}
+
+.row1 img {
+    width: 100%;
+    border: 5px solid #b4681c;
+}
+
+
+.row2{
+    display: flex;
+    padding: 1rem;
+}
+
+.row2 img {
+    width: 100%;
+    border: 5px solid #b4681c;
+}
+
+.row3{
+    display: flex;
+}
+
+.row3 img {
+    width: 100%;
+    border: 5px solid #b4681c;
+}
+
+.row4{
+    display: flex;
+}
+
+.row4 img{
+    width: 100%;
+    border: 5px solid #b4681c;
+}
+
+.col1{
+    width: 50%;
+    text-align: justify;
+    font-size: 30px;
+}
+.col1 p{
+    font-family: "Oswald";
+    font-weight: 400;
+    padding-left: 50px;
+}
+
+.col2{
+    width: 33%;
+    padding: 0.2rem;
+}
+
+.col3{
+    width: 25%;
+    padding: 1rem;
+    text-align: justify;
+}
+
+.col3 p{
+    font-family: "Rationale";
+    font-size: 20px
+}
+
+.col3 h3{
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+    border-top: 5px solid #b4681c;
+    font-size: 30px;
+}
+
+.col3 p, .col3 h3{
+    padding: 0 1.5rem;
+}

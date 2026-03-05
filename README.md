@@ -52,3 +52,25 @@ Since I had previously prepared my required elements I,
 2. I wrapped the unordered lists inside a nav element
     
 3. I then commit and pushed the current status of the project to github
+
+Stage 4
+
+I began by,
+
+1. Basic CSS for index.html such as the background colour, text colour etc.
+
+2. I started to shift my images a little to ensure that they fit better onto the page
+
+3. Once everything except the navbar on index.html was looking okay I created a new css file just for the navbar.
+
+4. I added in my chosen details for nav, ul, li, a, a:hover, (including the hover image) and then adjusted until I felt it accurately matched the provided screenshot
+
+5. I finally added in Google fonts as I needed them, Oswald, Lato and Rationale.
+
+6. Once index.html looked good I started on story.html which was a much bigger task, I added everything into row and column divs following Matt's FED repo.
+
+7. I added orange borders to the images and the top of the headings and adjusted the images and text until I was happy
+
+8. It definitely doesnt look like a 1:1 match but it was the best I could do
+
+9. I then commit and pushed the current status of the project to github
