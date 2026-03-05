@@ -6,6 +6,9 @@
         <li>
             <a href="/story">CAST</a>
         </li>
+        <li>
+            <a href="/merch">MERCH</a>
+        </li>
     </ul>
 </nav>
 
