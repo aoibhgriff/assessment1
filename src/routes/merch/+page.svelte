@@ -6,7 +6,6 @@
   onMount(async () => {
     const res = await fetch("https://akabab.github.io/starwars-api/api/all.json");
     const data = await res.json();
-    // take first 19 with images
     characters = data.filter(c => c.image).slice(0, 19);
   });
 </script>

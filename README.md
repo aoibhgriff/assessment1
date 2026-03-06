@@ -112,4 +112,18 @@ I began by,
 
 7. I fixed it up and then commit and pushed the current status of the project to github
 
-‌
+Stage 7
+
+Having already included the JSON loop earlier I,
+
+1. Went to https://tailwindcss.com/ and used their search feature to find any and all information I would need for my styles
+
+2. Went through page by page incorporating them into index, story, header.svelte and footer.svelte.
+
+3. Decided not to attempt incorporating Tailwind into merch as I ran into many issues with that page specifically and getting it to work properly and did not want to risk making any mistakes that would be difficult to fix
+
+4. I also could not find anything on https://tailwindcss.com/ for displaying an image on a: hover and I felt it was one of the more important features of the navbar so I decided to also leave that one
+
+5. I commit and pushed the current status of the project to github
+
+6. I plan to try publish the site as static pages via actions as well.
