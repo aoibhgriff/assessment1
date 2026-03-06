@@ -125,3 +125,5 @@ Having already included the JSON loop earlier I,
 4. I also could not find anything on https://tailwindcss.com/ for displaying an image on a: hover and I felt it was one of the more important features of the navbar so I decided to also leave that one
 
 5. I commit and pushed the current status of the project to github
+
+EXTRA INFO: I have the signed physical copy of the coverpage to be submit in person as requested 
