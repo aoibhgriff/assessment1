@@ -125,5 +125,3 @@ Having already included the JSON loop earlier I,
 4. I also could not find anything on https://tailwindcss.com/ for displaying an image on a: hover and I felt it was one of the more important features of the navbar so I decided to also leave that one
 
 5. I commit and pushed the current status of the project to github
-
-6. I plan to try publish the site as static pages via actions as well.
