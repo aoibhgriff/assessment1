@@ -1,15 +1,3 @@
-<header>
-    <img src="img/title.png" alt="Star Wars Andor logo">
+<header class="text-center">
+    <img src="img/title.png" alt="Star Wars Andor logo" class="w-[40%] block mx-auto">
 </header>
-
-<style>
-    header{
-    text-align: center;
-}
-
-header img{
-    width: 40%;
-    display: block;
-    margin: auto;
-}
-</style>

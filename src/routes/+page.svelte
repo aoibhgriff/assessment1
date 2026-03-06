@@ -7,14 +7,6 @@
         </svelte:head>
         
         <main id="main">
-            <img src="img/homeimage.jpg" alt="Andor - splash image">
+            <img src="/img/homeimage.jpg" alt="Andor - splash image" class="w-full py-4">
         </main>
-        
-        <style>
-            #main img {
-                width: 100%;
-                padding-top: 1rem;
-                padding-bottom: 1rem;
-            }
-        </style>
         
